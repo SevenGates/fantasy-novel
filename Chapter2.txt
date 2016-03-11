@@ -1,18 +1,5 @@
-<<<<<<< HEAD
-Chapter 1
 
-The beginning of a fascinating story. Something about dragons and wizards. Etc.
 
-The anti-hero is a scurrilous swine!.
-
-The hero is fabulously handsome!
-
-Everyone goes to the tavern and drinks ale. There are dwarves.
-
-There were also elves, and they were happy.
-
-To be continued..
-=======
 Den mörka natten ville ta över dina tankar. 
 Du lät den inte, du åt en banan och tyckte det var löjligt.
 
@@ -23,4 +10,3 @@ Mysigt.
 - Om du fokuserar på din kanelsnäcka så snor jag en bil.
 
 ... to be continued.
->>>>>>> 5965ba8b4b5b6361bae5b3eb3924436941819af5
